@@ -1,2 +1,2 @@
-# Incredeable-India
-HtML, CSS and Javascript
+# Tourism Webpage
+HtML, CSS 
